@@ -1,6 +1,6 @@
-# 🚀 Hanif Sebastian Ramanda — Security Portfolio
+# 🚀 Hanif Sebastian Ramanda
 
-> Hands‑on labs, reproducible guides, and structured writeups demonstrating practical work with **Ubuntu web services (Node.js + Nginx)**, **Kali pentesting (WSTG-style)**, **Nessus scanning**, and **Wazuh SIEM** — all in a contained VM environment.
+> Hands‑on labs, reproducible guides, and structured writeups demonstrating practical work with **Ubuntu web services (Node.js + Nginx)**, **Kali pentesting (WSTG-checklist)**, **Nessus scanning**, and **Wazuh SIEM** — all in a contained VM environment.
 
 [![Email](https://img.shields.io/badge/email-haniframanda106%40gmail.com-blue?style=flat\&logo=gmail)](mailto:haniframanda106@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanif%20Sebastian-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/hanif-sebastian-ramanda-427931328?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blkcjb3MMSQO5m5yFN1sdNg%3D%3D)
@@ -33,20 +33,24 @@ Labs designed for **practical, reproducible experimentation** in a controlled VM
 | **Nessus Analysis**              | Nessus scans on Kali with templates and exported reports (PDF/CSV). Findings mapped to CVE/CWE and remediation actions. Combines automated scans with manual verification.             |
 | **Wazuh SIEM**                   | Wazuh agent installed on Ubuntu. Collects Nginx and Node.js app logs, demonstrates alerting and dashboard correlation for brute force, fuzzing, and suspicious activity.               |
 
+- [Network Fundamentals Repository](https://github.com/Hanif-SR/Network-Fundamentals)
+- 
+
 ---
 
 
-## 🧰 Tools & Badges
+## 🧰 Tools
 
-### Offensive Testing
+### Operating System
 
 ![Kali](https://img.shields.io/badge/Kali-1793D1?style=for-the-badge\&logo=kali-linux\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Automated Scanning
+### vulnerability scanner
 
 ![Nessus](https://img.shields.io/badge/Nessus-FF6A00?style=for-the-badge\&logo=tenable\&logoColor=white)
 
-### SIEM & Monitoring
+### SIEM 
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-2F7AE0?style=for-the-badge\&logo=logstash\&logoColor=white)
 
@@ -61,8 +65,6 @@ Labs designed for **practical, reproducible experimentation** in a controlled VM
 
 * Labs are **self-contained** in VM environments.
 * Credentials and intentionally exposed endpoints are for **educational purposes only**.
-* For production deployments, enable HTTPS, `cookie.secure`, remove demo accounts, and eliminate debug endpoints.
+* For security testing, _less-secured_ codes will be implemented.
 
 ---
-
-**Tip:** Replace `github.com/YOUR_GITHUB/...` placeholders with actual repository URLs.
