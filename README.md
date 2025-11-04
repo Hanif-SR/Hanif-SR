@@ -25,19 +25,15 @@ Labs designed for **practical, reproducible experimentation** in a controlled VM
 
 ## 📚 Projects (timeline table view)
 
-| Project                          | Description                                                                                                                                                                            |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Network Fundamentals**         | Network topologies, subnetting exercises, packet captures (PCAP), and protocol-to-port mapping. Builds foundation for network understanding and attacker/defender mindset.             |
-| **Ubuntu Linux (simple Web service)** | Minimal Node.js app (≤5 pages) deployed behind Nginx. Includes reverse proxy, HTTP security headers, PM2, and structured logging. Serves as primary test target for pentesting.        |
-| **Kali WSTG Testing**            | Kali playbooks implementing ≥5 WSTG checklist items (information gathering, authentication, input validation, file handling, session management). Includes PoCs and detection mapping. |
-| **Nessus Analysis**              | Nessus scans on Kali with templates and exported reports (PDF/CSV). Findings mapped to CVE/CWE and remediation actions. Combines automated scans with manual verification.             |
-| **Wazuh SIEM**                   | Wazuh agent installed on Ubuntu. Collects Nginx and Node.js app logs, demonstrates alerting and dashboard correlation for brute force, fuzzing, and suspicious activity.               |
-
-- [Network Fundamentals Repository](https://github.com/Hanif-SR/Network-Fundamentals)
-- 
+| Project                                                                              | Description                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Network Fundamentals**](https://github.com/Hanif-SR/Network-Fundamentals)         | Network topologies, subnetting exercises, packet captures (PCAP), and protocol-to-port mapping. Builds foundation for network understanding and attacker/defender mindset.             |
+| [**Ubuntu Linux (simple Web service)**](https://github.com/Hanif-SR/Ubuntu-Linux-OS) | Minimal Node.js app (≤5 pages) deployed behind Nginx. Includes reverse proxy, HTTP security headers, PM2, and structured logging. Serves as primary test target for pentesting.        |
+| [**Kali WSTG Testing**](https://github.com/Hanif-SR/Kali-Linux)                      | Kali playbooks implementing ≥5 WSTG checklist items (information gathering, authentication, input validation, file handling, session management). Includes PoCs and detection mapping. |
+| [**Nessus Analysis**](https://github.com/Hanif-SR/Nessus-Utilities)                  | Nessus scans on Kali with templates and exported reports (PDF/CSV). Findings mapped to CVE/CWE and remediation actions. Combines automated scans with manual verification.             |
+| [**Wazuh SIEM**](https://github.com/Hanif-SR/Wazuh-SIEM)                             | Wazuh agent installed on Ubuntu. Collects Nginx and Node.js app logs, demonstrates alerting and dashboard correlation for brute force, fuzzing, and suspicious activity.               |
 
 ---
-
 
 ## 🧰 Tools
 
