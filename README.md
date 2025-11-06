@@ -3,7 +3,7 @@
 > Hands‑on labs, reproducible guides, and structured writeups demonstrating practical work with **Ubuntu web services (Node.js + Nginx)**, **Kali pentesting (WSTG-checklist)**, **Nessus scanning**, and **Wazuh SIEM** — all in a contained VM environment.
 
 [![Email](https://img.shields.io/badge/email-haniframanda106%40gmail.com-blue?style=flat\&logo=gmail)](mailto:haniframanda106@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanif%20Sebastian-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/hanif-sebastian-ramanda-427931328?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blkcjb3MMSQO5m5yFN1sdNg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanif%20Sebastian%20Ramanda-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/hanif-sebastian-ramanda-427931328?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blkcjb3MMSQO5m5yFN1sdNg%3D%3D)
 
 ---
 
